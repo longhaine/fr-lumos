@@ -1,0 +1,66 @@
+.pre-lumos{
+    background-color: #000d1a;
+    color: white;
+    margin: 0;
+    width: 100%;
+    overflow: auto;
+}
+.pre-lumos code{
+    width: 100%;
+    overflow: auto;
+}
+/* Html */
+.agh-bracket{
+    color: #999; 
+}
+.agh-tag{
+    color: #004d99;
+}
+.agh-attr{
+    color: #99ccff;
+}
+.agh-equal{
+    color: white;
+}
+.agh-dquotes{
+    color:#ff8000;
+}
+
+/* typescript */
+.agt-first-keyword{
+    color:#cc0099;
+}
+.agt-second-keyword{
+    color: #004d99;
+}
+.agt-generic{
+    color:#2eb82e;
+}
+.agt-var{
+    color: #9cf;
+}
+.agt-dquotes{
+    color:#ff8000;
+}
+.agt-function{
+    color:#ffff4d
+}
+.agt-element{
+    color:#b3ffb3
+}
+.agt-comment{
+    color:#006600
+}
+.agt-dquotes .agt-bracket{
+    color:#ff8000;
+}
+
+.agc-attr{
+    color: #cca300;
+}
+.agc-name{
+    color: #9cf;
+}
+.agc-value{
+    color:#ff8000;
+}
